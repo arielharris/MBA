@@ -27,3 +27,4 @@ Ariel Harris
 
 ## Acknowledgments
 *[mlxtend user guide](https://rasbt.github.io/mlxtend/api_subpackages/mlxtend.frequent_patterns/)
+*[Medium article for the basics](https://medium.com/@iqra.bismi/how-to-perform-market-basket-analysis-using-apriori-algorithm-and-association-rules-3f6ba61d6e4b)
