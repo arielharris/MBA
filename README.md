@@ -23,7 +23,6 @@ Simply run all code blocks of the jupyter notebook!
 
 ## Authors
 Ariel Harris
-arielharris97@outlook.com
 
 
 ## Acknowledgments
